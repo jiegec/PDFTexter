@@ -7,3 +7,5 @@ Usage:
 ```shell
 $ swift run PDFTexter /path/to/jpeg/images PAGE_COUNT OUTPUT_PDF
 ```
+
+Requires PDFKit and Vision frameworks from macOS.
